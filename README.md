@@ -4,12 +4,16 @@ We use dataset named "Airbnb listing in New York City":
 
 The data set collected information about Airbnb, a short-term rental platform, in New York City.
 
+Data description:
+
+- All of the variables have a left-skewed distribution.
+- The correlation between variables
+
 We disscuss two question:
 
 (1) What are the characteristics of the room distribution?
 
-- We used scatter plots and bar charts to depict the distribution 
-characteristics of different housing types in different areas.
+- We used scatter plots, pie chart and bar charts to depict the distribution characteristics of different housing types in different areas.
 - Added two filters，house type and neighborhood, to display images interactively.
 - To summary, for the first question, there are more houses in the first two districts and the number of share rooms is always small, so we speculate that fewer people are willing to rent share room than to rent alone in New York.
 
